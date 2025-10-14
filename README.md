@@ -71,7 +71,6 @@ _Turning curiosity into code and secure, smart systems._ ⚡
 ## Contact / İletişim
 - LinkedIn: [Sude İlhan](https://www.linkedin.com/in/sude-ilhan-591b40278/)  
 - Email: [sudemilhn@gmail.com](mailto:sudemilhn@gmail.com)  
-- Portfolio / Resume:
 
 
 
