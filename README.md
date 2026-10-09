@@ -97,17 +97,20 @@ Bachelor of Science (B.Sc.) in Computer Engineering
 Graduated: 2026
 
 ---
+<h2 align="center">GitHub Statistics</h2>
 
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sudeilhn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" height="165"/>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudeilhn&layout=compact&theme=tokyonight&cache_seconds=86400)
-
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sudeilhn&show_icons=true&theme=tokyonight"
+    width="48%"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeilhn&layout=compact&theme=tokyonight"
+    width="40%"
+    alt="Most Used Languages"
+  />
+</p>
 
 ---
 
