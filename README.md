@@ -40,13 +40,15 @@ A machine learning-based network traffic analysis system developed using the CIC
 
 ### Smart Security and Surveillance System
 
-*Python | YOLOv8 | OpenCV*
 
-A real-time object detection system developed as a Computer Engineering capstone project.
+### Smart Security and Surveillance System
+*Python | YOLOv8 | OpenCV | Raspberry Pi*
 
-- Trained a custom YOLOv8 model for detecting people, guns, and knives.
-- Implemented webcam-based detection and automated security alerts.
-- Applied confidence thresholds and frame-based filtering.
+Developed a real-time object detection and surveillance system as my Computer Engineering capstone project.
+
+- Trained a custom YOLOv8 model to detect people, guns, and knives.
+- Worked with Raspberry Pi as part of the system's hardware development.
+- Implemented webcam-based monitoring and automated security alerts.
 - Evaluated detection performance using precision, recall, and mAP.
 
 **Model Performance:** Precision: 0.818 | Recall: 0.657 | mAP@50: 0.727
