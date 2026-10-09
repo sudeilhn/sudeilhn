@@ -3,13 +3,13 @@
 
 **Computer Engineer | Artificial Intelligence & Machine Learning | Cybersecurity | Embedded Systems**
 
-Computer Engineering graduate from Istinye University with interests in artificial intelligence, cybersecurity, computer vision, and embedded systems.
+Computer Engineering graduate from Istinye University with a strong interest in artificial intelligence, cybersecurity, computer vision, and embedded systems.
 
-I have worked on projects involving machine learning, deep learning, network security, and real-time object detection. I enjoy combining software and hardware to develop practical solutions.
+My projects involve machine learning, deep learning, network security, and real-time object detection. I enjoy exploring how software and hardware can work together to solve practical problems.
 
 ---
 
-## 👩‍💻 Technical Skills
+## Technical Skills
 
 **Programming Languages**
 
@@ -50,42 +50,51 @@ I have worked on projects involving machine learning, deep learning, network sec
 
 ---
 
-## 🚀 Selected Projects
+## Selected Projects
 
 ### CyberThreat — Network Threat Detection and Analysis
+
 *Python | Scikit-learn | Random Forest | SHAP | Streamlit*
 
-A machine learning-based system for network traffic classification and security risk assessment.
+A machine learning-based system for network traffic classification, threat analysis, and security risk assessment.
 
-- Developed a seven-class traffic classifier using CICIDS2017.
-- Integrated SHAP explanations and an interactive Streamlit dashboard.
+- Developed a seven-class network traffic classifier using the CICIDS2017 dataset.
+- Integrated SHAP-based model explanations to support interpretable predictions.
+- Built an interactive Streamlit dashboard for traffic analysis.
 - Implemented risk assessments and rule-based SOC security reports.
-- Conducted preliminary external evaluation using CICIDS2018.
+- Conducted preliminary external evaluation using CICIDS2018 to investigate model generalization.
 
 ### Smart Security and Surveillance System
-*Python | YOLOv8 | OpenCV | Raspberry Pi*
 
-A real-time object detection system developed as my Computer Engineering capstone project.
+*Python | YOLOv8 | OpenCV | Computer Vision*
+
+A real-time object detection and security monitoring system developed as my Computer Engineering capstone project.
 
 - Trained a custom YOLOv8 model to detect people, guns, and knives.
-- Worked with Raspberry Pi during hardware development.
+- Explored Raspberry Pi integration during hardware development.
 - Implemented webcam-based monitoring and automated security alerts.
-- Evaluated detection performance using precision, recall, and mAP.
+- Evaluated object detection performance using precision, recall, and mAP.
 
-### Phishing Email Detection
-*Python | TensorFlow | LSTM | NLP*
+### Phishing Email Detection Using Deep Learning
 
-A deep learning project focused on phishing email classification.
+*Python | TensorFlow | Keras | NLP | Deep Learning*
 
-- Preprocessed and tokenized labeled email data.
-- Developed an LSTM-based model to distinguish phishing emails from legitimate messages.
+A comparative deep learning project focused on identifying phishing emails in Turkish-language email data.
+
+- Explored LSTM, Bidirectional LSTM, GRU, and CNN-LSTM architectures.
+- Applied text preprocessing and tokenization for email classification.
+- Developed training and prediction scripts for different neural network models.
+- Investigated approaches for distinguishing phishing emails from legitimate messages.
+
+[View Phishing Detection Project](https://github.com/sudeilhn/Cybersecurity_projects)
 
 ---
 
 ## Education
 
 **Istinye University**  
-B.Sc. in Computer Engineering | 2026
+Bachelor of Science (B.Sc.) in Computer Engineering  
+Graduated: 2026
 
 ---
 
@@ -95,7 +104,7 @@ B.Sc. in Computer Engineering | 2026
 
 <img src="https://github-readme-stats.vercel.app/api?username=sudeilhn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeilhn&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeilhn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&include_forks=true" alt="Most Used Languages" height="165"/>
 
 </div>
 
@@ -103,13 +112,9 @@ B.Sc. in Computer Engineering | 2026
 
 ## Contact
 
-[GitHub](https://github.com/sudeilhn)
-
-
-
-## Contact / İletişim
-- LinkedIn: [Sude İlhan](https://www.linkedin.com/in/sude-ilhan-591b40278/)  
-- Email: [sudemilhn@gmail.com](mailto:sudemilhn@gmail.com)  
+- **LinkedIn:** [Sude İlhan](https://www.linkedin.com/in/sude-ilhan-591b40278/)
+- **Email:** [sudemilhn@gmail.com](mailto:sudemilhn@gmail.com)
+- **GitHub:** [sudeilhn](https://github.com/sudeilhn)
 
 
 
