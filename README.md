@@ -1,70 +1,79 @@
-# Hi there 👋 / Merhaba 👋
-**Sude İlhan** — 4th year Computer Engineering | Cybersecurity & AI Enthusiast  
-_Turning curiosity into code and secure, smart systems._ ⚡  
+
+# Sude İlhan
+
+**Computer Engineer | Artificial Intelligence | Cybersecurity | Embedded Systems**
+
+Computer Engineering graduate from Istinye University with a focus on machine learning, cybersecurity, computer vision, and embedded systems.
+
+I have worked on projects involving network threat detection, deep learning, real-time object detection, and embedded programming. I enjoy exploring how software, intelligent algorithms, and hardware can be combined to solve practical problems.
+
+## 👩‍💻 Technical Skills
+
+**Programming Languages:** Python, C, C++
+
+**AI & Machine Learning:** Scikit-learn, TensorFlow, Pandas, NumPy, SHAP, YOLOv8
+
+**Computer Vision:** OpenCV, Object Detection, Real-Time Video Processing
+
+**Cybersecurity:** Network Traffic Analysis, Penetration Testing, Vulnerability Assessment, Wireshark, Nmap, Burp Suite, Metasploit
+
+**Embedded Systems:** Arduino, ATmega328, AVR Assembly, Microcontrollers, UART, I2C, SPI
+
+**Development Tools:** Git, GitHub, VS Code, PyCharm, Linux, VMware, Docker, Streamlit
 
 ---
 
-## About / Hakkımda
-**EN:** 4th-year Computer Engineering student focused on Cybersecurity, AI, and Embedded Systems. I create practical tools combining ML with security, e.g., phishing detection models and TinyML on edge devices.  
-**TR:** Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. İlgi alanlarım Siber Güvenlik, Yapay Zeka ve Gömülü Sistemler. ML tabanlı güvenlik araçları ve edge cihazlarda TinyML çözümleri geliştiriyorum.
+## 🚀 Selected Projects
+
+### CyberThreat — Network Threat Detection and Analysis
+
+*Python | Scikit-learn | Random Forest | SHAP | Streamlit*
+
+A machine learning-based network traffic analysis system developed using the CICIDS2017 dataset.
+
+- Trained a Random Forest model to classify seven network traffic categories.
+- Achieved 99.13% accuracy on a held-out CICIDS2017 test split.
+- Integrated SHAP to explain individual predictions.
+- Built a Streamlit interface for single-record and batch analysis.
+- Implemented risk assessment, security recommendations, and rule-based SOC reports.
+- Conducted preliminary external testing with CICIDS2018, revealing limitations in identifying unseen attack types.
+
+### Smart Security and Surveillance System
+
+*Python | YOLOv8 | OpenCV*
+
+A real-time object detection system developed as a Computer Engineering capstone project.
+
+- Trained a custom YOLOv8 model for detecting people, guns, and knives.
+- Implemented webcam-based detection and automated security alerts.
+- Applied confidence thresholds and frame-based filtering.
+- Evaluated detection performance using precision, recall, and mAP.
+
+**Model Performance:** Precision: 0.818 | Recall: 0.657 | mAP@50: 0.727
+
+### Phishing Email Detection Using Deep Learning
+
+*Python | TensorFlow | LSTM | NLP*
+
+A deep learning project focused on classifying phishing and legitimate emails.
+
+- Preprocessed labeled email data.
+- Applied tokenization and text sequence preparation.
+- Developed an LSTM-based classification model.
 
 ---
 
-## 💼 Skills / Yetenekler
+## Education
 
-### Languages / Diller
-![C](https://img.shields.io/badge/C-%23007ACC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C?style=flat&logo=python&logoColor=white)
-
-### OS & Platforms / İşletim Sistemleri & Platformlar
-![Linux](https://img.shields.io/badge/Linux-%23000000?style=flat&logo=linux&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-%23007ACC?style=flat&logo=vmware&logoColor=white)
-
-### Containers / Konteynerler
-![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=flat&logo=docker&logoColor=white)
-
-### AI / ML / Yapay Zeka & Makine Öğrenimi
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
-**EN:** AI/ML model training, data preprocessing, Python pipelines (security & AI)  
-**TR:** Yapay Zeka/ML model eğitimi, veri işleme, Python iş akışları (siber güvenlik & AI)
-
-### Cybersecurity / Siber Güvenlik
-![nmap](https://img.shields.io/badge/nmap-%23000000?style=flat&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-%23007ACC?style=flat&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-%23000000?style=flat&logo=metasploit&logoColor=white)
-![BurpSuite](https://img.shields.io/badge/Burp_Suite-%23FF6A00?style=flat&logo=portswigger&logoColor=white)
-![sqlmap](https://img.shields.io/badge/sqlmap-%23000000?style=flat&logo=python&logoColor=white)
-![aircrack-ng](https://img.shields.io/badge/Aircrack--ng-%23000000?style=flat&logo=linux&logoColor=white)
-![BloodHound](https://img.shields.io/badge/BloodHound-%23A8273A?style=flat&logo=neo4j&logoColor=white)
-![Netcat](https://img.shields.io/badge/netcat-%23000000?style=flat&logo=gnu&logoColor=white)
-
-**EN:** Penetration testing, network analysis, vulnerability assessment, post-exploitation  
-**TR:** Penetrasyon testi, ağ analizi, zafiyet değerlendirme, post-exploit
-
+**Istinye University**  
+B.Sc. in Computer Engineering | 2026
 
 ---
 
-## Projects / Projeler
+## Areas of Interest
 
-- **Deep Learning-based Phishing Email Detector**  
-  EN: Detect phishing emails using deep learning (dataset → model → evaluation)  
-  TR: Phishing e-postalarını derin öğrenme ile tespit etme (veri seti → model → değerlendirme)
+Artificial Intelligence · Cybersecurity · Embedded Systems · Computer Vision · Software Engineering
 
-- **TinyML on ESP32 — Assistive Vision Device**  
-  EN: ESP32 detects objects for visually impaired users and provides audio feedback via speaker using TF-Lite quantization.  
-  TR: ESP32 üzerinde engelliler için nesne algılama ve hoparlör ile sesli geri bildirim, TF-Lite quantization kullanıldı.
-
-
----
-
-## GitHub Stats / İstatistikler
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudeilhn&show_icons=true&theme=tokyonight&hide_border=true" alt="sudeilhn's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeilhn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
