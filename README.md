@@ -39,9 +39,6 @@ A machine learning-based network traffic analysis system developed using the CIC
 - Conducted preliminary external testing with CICIDS2018, revealing limitations in identifying unseen attack types.
 
 ### Smart Security and Surveillance System
-
-
-### Smart Security and Surveillance System
 *Python | YOLOv8 | OpenCV | Raspberry Pi*
 
 Developed a real-time object detection and surveillance system as my Computer Engineering capstone project.
