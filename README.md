@@ -46,7 +46,7 @@ I have worked on projects involving machine learning, deep learning, network sec
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Additional:** YOLOv8, SHAP, Streamlit, AVR Assembly, I2C, SPI
+**Additional:** YOLOv8, SHAP, Streamlit, AVR Assembly
 
 ---
 
