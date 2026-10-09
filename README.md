@@ -5,7 +5,7 @@
 
 Hi! I'm a Computer Engineering graduate from Istinye University. I'm interested in artificial intelligence, cybersecurity, computer vision, and embedded systems.
 
-I enjoy learning new technologies and working on projects that help me improve my skills. I've worked on projects involving machine learning, deep learning, network security, and real-time object detection. I'm always looking for opportunities to learn more, gain experience, and turn what I've learned into practical applications.
+I enjoy learning new technologies and working on projects that help me improve my skills. I've worked on projects involving machine learning, deep learning, network security, and real-time object detection.
 
 ---
 
