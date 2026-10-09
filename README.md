@@ -17,7 +17,7 @@ I have worked on projects involving network threat detection, deep learning, rea
 
 **Cybersecurity:** Network Traffic Analysis, Penetration Testing, Vulnerability Assessment, Wireshark, Nmap, Burp Suite, Metasploit
 
-**Embedded Systems:** Arduino, ATmega328, AVR Assembly, Microcontrollers, UART, I2C, SPI
+**Embedded Systems:** Arduino, ATmega328, AVR Assembly, Microcontrollers
 
 **Development Tools:** Git, GitHub, VS Code, PyCharm, Linux, VMware, Docker, Streamlit
 
