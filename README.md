@@ -1,11 +1,10 @@
 
+
 # Sude İlhan
 
-**Computer Engineer | Artificial Intelligence & Machine Learning | Cybersecurity | Embedded Systems**
+**Computer Engineer | AI & Machine Learning | Cybersecurity | Embedded Systems**
 
-Hi! I'm a Computer Engineering graduate from Istinye University. I'm interested in artificial intelligence, cybersecurity, computer vision, and embedded systems.
-
-I enjoy learning new technologies and working on projects that help me improve my skills. I've worked on projects involving machine learning, deep learning, network security, and real-time object detection.
+Computer Engineering graduate from Istinye University (2026), passionate about AI, cybersecurity, computer vision, and software development.
 
 ---
 
@@ -56,35 +55,23 @@ I enjoy learning new technologies and working on projects that help me improve m
 
 *Python | Scikit-learn | Random Forest | SHAP | Streamlit*
 
-A machine learning-based system for network traffic classification, threat analysis, and security risk assessment.
-
-- Developed a seven-class network traffic classifier using the CICIDS2017 dataset.
-- Integrated SHAP-based model explanations to support interpretable predictions.
-- Built an interactive Streamlit dashboard for traffic analysis.
-- Implemented risk assessments and rule-based SOC security reports.
-- Conducted preliminary external evaluation using CICIDS2018 to investigate model generalization.
+- Developed a 7-class network intrusion detection model using CICIDS2017.
+- Integrated SHAP explanations, a Streamlit dashboard, and SOC-style security reports.
+- Conducted preliminary external evaluation using CICIDS2018.
 
 ### Smart Security and Surveillance System
 
 *Python | YOLOv8 | OpenCV | Computer Vision*
 
-A real-time object detection and security monitoring system developed as my Computer Engineering capstone project.
-
-- Trained a custom YOLOv8 model to detect people, guns, and knives.
-- Explored Raspberry Pi integration during hardware development.
-- Implemented webcam-based monitoring and automated security alerts.
-- Evaluated object detection performance using precision, recall, and mAP.
+- Developed a real-time security system detecting people, guns, and knives using YOLOv8.
+- Implemented webcam monitoring, automated alerts, and model performance evaluation.
 
 ### Phishing Email Detection Using Deep Learning
 
-*Python | TensorFlow | Keras | NLP | Deep Learning*
+*Python | TensorFlow | Keras | NLP*
 
-A comparative deep learning project focused on identifying phishing emails in Turkish-language email data.
-
-- Explored LSTM, Bidirectional LSTM, GRU, and CNN-LSTM architectures.
-- Applied text preprocessing and tokenization for email classification.
-- Developed training and prediction scripts for different neural network models.
-- Investigated approaches for distinguishing phishing emails from legitimate messages.
+- Developed deep learning models for Turkish phishing email detection.
+- Compared LSTM, BiLSTM, GRU, and CNN-LSTM architectures using NLP techniques.
 
 [View Phishing Detection Project](https://github.com/sudeilhn/Cybersecurity_projects)
 
@@ -94,9 +81,9 @@ A comparative deep learning project focused on identifying phishing emails in Tu
 
 **Istinye University**  
 Bachelor of Science (B.Sc.) in Computer Engineering  
-Graduated: 2026
 
 ---
+
 <h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
@@ -119,7 +106,6 @@ Graduated: 2026
 - **LinkedIn:** [Sude İlhan](https://www.linkedin.com/in/sude-ilhan-591b40278/)
 - **Email:** [sudemilhn@gmail.com](mailto:sudemilhn@gmail.com)
 - **GitHub:** [sudeilhn](https://github.com/sudeilhn)
-
 
 
 
